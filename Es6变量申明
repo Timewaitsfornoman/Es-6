@@ -1,1 +1,23 @@
+Es6变量申明
 
+let命令：
+
+特性：
+1:块级作用域和函数申明;
+2:不支持变量提升(先使用，后定义，会报错，ReferenceError: Cannot access 'x' before initialization);
+3:不允许重复声明
+
+const 命令：
+特性：
+1:块级作用域和函数申明;
+2:不支持变量提升(先使用，后定义，会报错，ReferenceError: Cannot access 'x' before initialization);
+3:不允许重复声明
+4:值或者指针不变。
+
+ES6 一共有 6 种声明变量的方法
+1:var
+2:function
+3:let
+4:const
+5:import
+6:class
